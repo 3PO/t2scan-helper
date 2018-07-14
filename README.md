@@ -46,5 +46,5 @@ t2scan-helper benötigt [t2scan](https://github.com/mighty-p/t2scan) von mighty-
 
 
 
-Vielen Dank @ Niklas Merkelt ([tvhelfer.de](https://tvhelfer.de/)) für die Bereitstellung der Scanlisten im cvs Format.
+Vielen Dank @ Niklas Merkelt ([tvhelfer.de](https://tvhelfer.de/)) für die Bereitstellung der Scanlisten im csv Format.
 
