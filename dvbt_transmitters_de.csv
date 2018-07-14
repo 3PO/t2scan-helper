@@ -1,221 +1,159 @@
-Baden-Württemberg;Aalen (Brauenberg);ZDFmobil;23;H;47;
-Baden-Württemberg;Aalen (Brauenberg);ARD-One;59;H;47;
-Baden-Württemberg;Aalen (Brauenberg);SWR-BW;50;H;47;
-Baden-Württemberg;Bad Mergentheim;ZDFmobil;23;H;37;
-Baden-Württemberg;Bad Mergentheim;SWR-BW;50;H;40;
-Baden-Württemberg;Bad Mergentheim;ARD-One;26;H;37;
-Baden-Württemberg;Donaueschingen;ZDFmobil;22;H;47;
-Baden-Württemberg;Donaueschingen;ARD-One;54;H;47;
-Baden-Württemberg;Donaueschingen;SWR-BW;41;H;47;
-Baden-Württemberg;Geislingen - Oberböhringen;ZDFmobil;23;H;33;
-Baden-Württemberg;Geislingen - Oberböhringen;ARD-One;59;H;33;
-Baden-Württemberg;Geislingen - Oberböhringen;SWR-BW;50;H;33;
-Baden-Württemberg;Heilbronn (Weinsberg);ZDFmobil;23;H;37;
-Baden-Württemberg;Heilbronn (Weinsberg);ARD-One;26;H;37;
-Baden-Württemberg;Heilbronn (Weinsberg);SWR-BW;50;H;37;
-Baden-Württemberg;Raichberg;ZDFmobil;22;H;47;
-Baden-Württemberg;Raichberg;ARD-One;43;H;47;
-Baden-Württemberg;Raichberg;SWR-BW;40;H;47;
-Baden-Württemberg;Ravensburg;ZDFmobil;22;H;47;
-Baden-Württemberg;Ravensburg;ARD-One;43;H;47;
-Baden-Württemberg;Ravensburg;SWR-BW;40;H;47;
-Baden-Württemberg;Ulm - Ermingen;ZDFmobil;22;H;47;
-Baden-Württemberg;Ulm - Ermingen;ARD-One;43;H;47;
-Baden-Württemberg;Ulm - Ermingen;SWR-BW;40;H;47;
-Baden-Württemberg;Waldenburg (Friedrichsberg);ZDFmobil;23;H;47;
-Baden-Württemberg;Waldenburg (Friedrichsberg);ARD-One;26;H;47;
-Baden-Württemberg;Waldenburg (Friedrichsberg);SWR-BW;50;H;47;
-Bayern;Amberg (Rotbühl);ZDFmobil;23;H;47;
-Bayern;Amberg (Rotbühl);BR-Süd;28;H;47;
-Bayern;Amberg (Rotbühl);ARD-One;37;H;47;
-Bayern;Augsburg (Welden);BR-Süd;25;H;50;ab
-Bayern;Augsburg (Welden);ARD-One;36;H;50;ab
-Bayern;Augsburg (Welden);ZDFmobil;44;H;47;ab
-Bayern;Bamberg (Kälberberg);ARD-One;29;H;47;
-Bayern;Bamberg (Kälberberg);ZDFmobil;34;H;47;
-Bayern;Bamberg (Kälberberg);BR-Nord;40;H;47;
-Bayern;Brotjacklriegel;ARD-One;40;V;50;
-Bayern;Brotjacklriegel;BR-Süd;27;V;50;
-Bayern;Brotjacklriegel;ZDFmobil;33;V;47;
-Bayern;Garmisch-Partenkirchen (Kreuzeck);ZDFmobil;28;H;37;
-Bayern;Garmisch-Partenkirchen (Kreuzeck);ARD-One;47;H;37;
-Bayern;Garmisch-Partenkirchen (Kreuzeck);BR-Süd;53;H;37;
-Bayern;Gelbelsee;BR-Süd;25;H;47;ab
-Bayern;Gelbelsee;ARD-One;36;H;47;ab
-Bayern;Gelbelsee;ZDFmobil;44;H;47;ab
-Bayern;Grünten;ZDFmobil;28;H;47;
-Bayern;Grünten;ARD-One;45;H;50;
-Bayern;Grünten;BR-Süd;46;H;50;
-Bayern;Hesselberg;ZDFmobil;44;H;47;ab
-Bayern;Hesselberg;BR-Nord;58;H;50;ab
-Bayern;Hesselberg;ARD-One;41;H;50;ab
-Bayern;Hochberg;BR-Süd;39;H;37;ab
-Bayern;Hochberg;ZDFmobil;42;H;37;ab
-Bayern;Hochberg;ARD-One;49;H;37;ab
-Bayern;Hohe Linie;ARD-One;42;V;50;
-Bayern;Hohe Linie;BR-Süd;28;V;50;
-Bayern;Hohe Linie;ZDFmobil;53;V;47;
-Bayern;Hohenpeißenberg;ZDFmobil;28;H;47;
-Bayern;Hohenpeißenberg;ARD-One;47;H;50;
-Bayern;Hohenpeißenberg;BR-Süd;53;H;50;
-Bayern;Hoher Bogen;ARD-One;42;V;50;
-Bayern;Hoher Bogen;BR-Süd;28;V;50;
-Bayern;Hoher Bogen;ZDFmobil;33;V;47;
-Bayern;Landshut;BR-Süd;27;H;43;
-Bayern;Landshut;ZDFmobil;33;H;43;
-Bayern;Landshut;ARD-One;40;H;43;
-Bayern;Ochsenkopf;ZDFmobil;23;H;47;
-Bayern;Ochsenkopf;ARD-One;29;H;47;
-Bayern;Ochsenkopf;BR-Nord;40;H;50;
-Bayern;Passau (Kühberg);BR-Süd;27;H;37;
-Bayern;Passau (Kühberg);ZDFmobil;33;H;37;
-Bayern;Passau (Kühberg);ARD-One;40;H;37;
-Bayern;Pfaffenhofen a. d. Ilm (Wolfsberg);BR-Süd;25;H;47;ab
-Bayern;Pfaffenhofen a. d. Ilm (Wolfsberg);ARD-One;36;H;47;ab
-Bayern;Pfaffenhofen a. d. Ilm (Wolfsberg);ZDFmobil;44;H;47;ab
-Bayern;Pfänder;ARD-One;45;H;40;
-Bayern;Pfänder;BR-Süd;46;H;40;
-Bayern;Pfarrkirchen;BR-Süd;27;H;47;
-Bayern;Pfarrkirchen;ZDFmobil;33;H;47;
-Bayern;Pfarrkirchen;ARD-One;40;H;47;
-Bayern;Untersberg;BR-Süd;39;H;37;ab
-Bayern;Untersberg;ZDFmobil;42;H;37;ab
-Bayern;Untersberg;ARD-One;49;H;37;ab
-Berlin;Berlin Alexanderplatz;BerlinDVB-T1;47;H;50;
-Berlin;Berlin Schäferberg;BerlinDVB-T1;47;V;47;
-Brandenburg;Cottbus (Calau);ARD-BB;53;H;50;
-Brandenburg;Cottbus (Calau);RBB-BB;57;H;50;
-Brandenburg;Cottbus (Calau);ZDFmobil;36;H;50;
-Hamburg;Hamburg Heinrich-Hertz-Turm;Hamburg 1;37;H;47;
-Hamburg;Hamburg Höltigbaum;Hamburg 1;37;H;43;
-Hessen;Angelburg (Dillenburg);ARD-TS24;32;H;47;ab
-Hessen;Angelburg (Dillenburg);ZDFmobil;45;H;47;ab
-Hessen;Angelburg (Dillenburg);HR-Mitte;24;H;47;ab
-Hessen;Röhn (Heidelstein);ZDFmobil;25;H;47;c
-Hessen;Röhn (Heidelstein);HR-Ost;35;H;47;c
-Hessen;Röhn (Heidelstein);ARD-TS24;43;H;47;c
-Mecklenburg-Vorpommern;Helpterberg;ARD-MV;22;H;43;
-Mecklenburg-Vorpommern;Helpterberg;ZDFmobil;23;H;43;
-Mecklenburg-Vorpommern;Waren/Müritz;ARD-MV;22;H;30;
-Mecklenburg-Vorpommern;Waren/Müritz;ZDFmobil;23;H;30;
-Niedersachsen;Bad Rothenfelde;NDR-NDS;58;H;30;
-Niedersachsen;Dannenberg (Zernien);ARD-TS24;43;H;40;
-Niedersachsen;Dannenberg (Zernien);NDR-NDS;58;H;33;
-Niedersachsen;Lingen (Damaschke);ARD-TS24;41;H;43;ab
-Niedersachsen;Lingen (Damaschke);ZDFmobil;59;H;43;ab
-Niedersachsen;Lingen (Damaschke);NDR-NDS;37;H;43;ab
-Niedersachsen;Lüneburg (Steinhöhe);ARD-TS24;43;V;38;ab
-Niedersachsen;Lüneburg (Steinhöhe);ZDFmobil;27;V;37;ab
-Niedersachsen;Lüneburg (Steinhöhe);NDR-NDS;58;V;39;ab
-Niedersachsen;Osnabrück (Engter);ARD-TS24;41;H;47;ab
-Niedersachsen;Osnabrück (Engter);ZDFmobil;59;H;47;ab
-Niedersachsen;Osnabrück (Engter);NDR-NDS;37;H;47;ab
-Niedersachsen;Rinteln;NDR-NDS;22;V;;
-Niedersachsen;Stadthagen (Bückeberg);NDR-NDS;39;H;43;ab
-Niedersachsen;Uelzen-Sprakensehl (Behren-Bokel);ARD-TS24;43;H;47;
-Niedersachsen;Uelzen-Sprakensehl (Behren-Bokel);ZDFmobil;27;H;45;
-Niedersachsen;Uelzen-Sprakensehl (Behren-Bokel);NDR-NDS;58;H;47;
-Niedersachsen;Visselhövede;ARD-TS24;43;V;47;
-Niedersachsen;Visselhövede;ZDFmobil;27;V;43;
-Niedersachsen;Visselhövede;NDR-NDS;58;V;49;
-Nordrhein-Westfalen;Bielefeld (Hünenburg);WDR-Bielefeld;31;H;43;ab
-Nordrhein-Westfalen;Bielefeld (Hünenburg);ARD-One;26;H;43;ab
-Nordrhein-Westfalen;Bielefeld (Hünenburg);ZDFmobil;33;H;43;ab
-Nordrhein-Westfalen;Hochsauerland;WDR-Siegen;27;H;47;
-Nordrhein-Westfalen;Hochsauerland;ARD-One;60;H;47;
-Nordrhein-Westfalen;Hochsauerland;ZDFmobil;30;H;47;
-Nordrhein-Westfalen;Minden (Jakobsberg);WDR-Bielefeld;31;H;37;ab
-Nordrhein-Westfalen;Minden (Jakobsberg);ARD-One;26;H;37;ab
-Nordrhein-Westfalen;Minden (Jakobsberg);ZDFmobil;33;H;37;ab
-Nordrhein-Westfalen;Münster (Baumberg);WDR-Münster;45;V;47;ab
-Nordrhein-Westfalen;Münster (Baumberg);ARD-One;21;V;47;ab
-Nordrhein-Westfalen;Münster (Baumberg);ZDFmobil;59;V;47;ab
-Nordrhein-Westfalen;Münster (Fernmeldeturm);WDR-Münster;45;V;37;ab
-Nordrhein-Westfalen;Münster (Fernmeldeturm);ARD-One;21;V;37;ab
-Nordrhein-Westfalen;Münster (Fernmeldeturm);ZDFmobil;59;V;37;ab
-Nordrhein-Westfalen;Nordhelle;WDR-Siegen;27;V;47;
-Nordrhein-Westfalen;Nordhelle;ARD-One;60;V;50;
-Nordrhein-Westfalen;Nordhelle;ZDFmobil;30;V;47;
-Nordrhein-Westfalen;Siegen (Giersberg);WDR-Siegen;27;V;43;
-Nordrhein-Westfalen;Siegen (Giersberg);ARD-One;60;V;46;
-Nordrhein-Westfalen;Siegen (Giersberg);ZDFmobil;30;V;43;
-Nordrhein-Westfalen;Teutoburger Wald (Bielstein);WDR-Bielefeld;31;V;47;ab
-Nordrhein-Westfalen;Teutoburger Wald (Bielstein);ARD-One;26;V;47;ab
-Nordrhein-Westfalen;Teutoburger Wald (Bielstein);ZDFmobil;33;V;47;ab
-Rheinland-Pfalz;Donnersberg;ARD-One;57;H;47;
-Rheinland-Pfalz;Donnersberg;ZDFmobil;30;H;47;
-Rheinland-Pfalz;Donnersberg;SWR-RP;44;H;47;
-Rheinland-Pfalz;Eifel (Scharteberg);ARD-One;46;H;47;
-Rheinland-Pfalz;Eifel (Scharteberg);ZDFmobil;30;H;47;
-Rheinland-Pfalz;Eifel (Scharteberg);SWR-RP;48;H;47;
-Rheinland-Pfalz;Haardtkopf;ARD-One;46;H;47;
-Rheinland-Pfalz;Haardtkopf;ZDFmobil;30;H;47;
-Rheinland-Pfalz;Haardtkopf;SWR-RP;48;H;47;
-Rheinland-Pfalz;Kaiserslautern (Dansenberg);ARD-One;57;H;43;
-Rheinland-Pfalz;Kaiserslautern (Dansenberg);ZDFmobil;30;H;43;
-Rheinland-Pfalz;Kaiserslautern (Dansenberg);SWR-RP;44;H;43;
-Rheinland-Pfalz;Kettrichhof;ARD-One;57;H;47;
-Rheinland-Pfalz;Kettrichhof;ZDFmobil;30;H;47;
-Rheinland-Pfalz;Kettrichhof;SWR-RP;44;H;47;
-Rheinland-Pfalz;Saarburg (Ockfen - Geisberg);ARD-One;46;H;47;
-Rheinland-Pfalz;Saarburg (Ockfen - Geisberg);ZDFmobil;30;H;47;
-Rheinland-Pfalz;Saarburg (Ockfen - Geisberg);SWR-RP;48;H;47;
-Rheinland-Pfalz;Trier (Petrisberg);ARD-One;46;H;37;
-Rheinland-Pfalz;Trier (Petrisberg);ZDFmobil;30;H;37;
-Rheinland-Pfalz;Trier (Petrisberg);SWR-RP;48;H;37;
-Rheinland-Pfalz;Weinbiet / Neustadt a. d. W.;SWR-RP;44;H;43;
-Sachsen;Auerbach (Carlsturm);WESTSACHSEN;51;V;30,5;
-Sachsen;Chemnitz (Geyer);ARD-MDR;25;V;47;
-Sachsen;Chemnitz (Geyer);ZDFmobil;22;V;47;
-Sachsen;Chemnitz (Geyer);MDR-Sachsen;32;V;47;
-Sachsen;Chemnitz (Reichenhain);ARD-MDR;25;V;43;
-Sachsen;Chemnitz (Reichenhain);ZDFmobil;22;V;37;
-Sachsen;Chemnitz (Reichenhain);MDR-Sachsen;32;V;43;
-Sachsen;Chemnitz (Stelzendorf);CHEMNITZ;30;V;36;
-Sachsen;Dresden (Wiener Platz);DRESDEN;37;V;36;
-Sachsen;Görlitz (Liebighöhe);Lausitzwelle;40;V;35;
-Sachsen;Leipzig (Grünau);LEIPZIG;31;V;34;
-Sachsen;Leipzig (Lößnig);LEIPZIG;31;V;30,5;
-Sachsen;Leipzig (Markkleeberg);LEIPZIG;31;V;29;
-Sachsen;Leipzig (Messe);LEIPZIG;31;V;34;
-Sachsen;Leipzig (Mitte);LEIPZIG;31;V;34;
-Sachsen;Plauen (Oberer Bahnhof);WESTSACHSEN;51;V;30,5;
-Sachsen;Schöneck (Auerbach);ARD-MDR;25;V;47;
-Sachsen;Schöneck (Auerbach);ZDFmobil;22;V;47;
-Sachsen;Schöneck (Auerbach);MDR-Sachsen;32;V;47;
-Sachsen;Zwickau (Eckersbach);WESTSACHSEN;47;V;32;
-Sachsen-Anhalt;Bitterfeld;RBW-RAN1;30;V;37;
-Sachsen-Anhalt;Halle (Magdeburger Str.);HALLE;40;V;37;
-Schleswig-Holstein;Bredstedt;ARD-TS24;26;H;44;
-Schleswig-Holstein;Bredstedt;ZDFmobil;31;H;37;
-Schleswig-Holstein;Bredstedt;NDR-SH;24;H;44;
-Schleswig-Holstein;Brunnsbüttel;ARD-TS24;26;V;26;
-Schleswig-Holstein;Brunnsbüttel;NDR-SH;24;V;30;
-Schleswig-Holstein;Heide (Welmbüttel);ARD-TS24;26;H;45;
-Schleswig-Holstein;Heide (Welmbüttel);NDR-SH;24;H;45;
-Schleswig-Holstein;Heide (Welmbüttel);ZDFmobil;31;H;43;
-Schleswig-Holstein;Helgoland;ARD-TS24;47;H;24;
-Schleswig-Holstein;Helgoland;NDR-SH;39;H;24;
-Schleswig-Holstein;Helgoland;ZDFmobil;23;H;24;
-Schleswig-Holstein;Westerland (Sylt);ARD-TS24;26;H;39;
-Schleswig-Holstein;Westerland (Sylt);NDR-SH;24;H;39;
-Schleswig-Holstein;Westerland (Sylt);ZDFmobil;31;H;37;
-Thüringen;Erfurt (Windischholzhausen);ARD-MDR;21;V;47;ab
-Thüringen;Erfurt (Windischholzhausen);MDR-Thüringen;27;V;47;ab
-Thüringen;Erfurt (Windischholzhausen);ZDFmobil;50;V;47;ab
-Thüringen;Gera (Roschütz);ARD-MDR;25;V;47;
-Thüringen;Gera (Roschütz);MDR-Thüringen;27;V;47;
-Thüringen;Gera (Roschütz);ZDFmobil;22;V;47;
-Thüringen;Großer Inselberg;ARD-MDR;53;V;47;
-Thüringen;Großer Inselberg;ZDFmobil;50;V;47;
-Thüringen;Großer Inselberg;MDR-Thüringen;48;V;47;
-Thüringen;Ilmenau TU;TU-ILM;26;H;15;
-Thüringen;Saalfeld (Kulm);ARD-MDR;21;V;37;ab
-Thüringen;Saalfeld (Kulm);MDR-Thüringen;27;V;37;ab
-Thüringen;Saalfeld (Kulm);ZDFmobil;50;V;37;ab
-Thüringen;Sonneberg;ARD-MDR;21;V;40;ab
-Thüringen;Sonneberg;MDR-Thüringen;27;V;40;ab
-Thüringen;Sonneberg;ZDFmobil;50;V;43;ab
-Thüringen;Weimar (Ettersberg);ARD-MDR;21;V;44;ab
-Thüringen;Weimar (Ettersberg);MDR-Thüringen;27;V;44;ab
-Thüringen;Weimar (Ettersberg);ZDFmobil;50;V;44;ab
+"Baden-Württemberg";"Aalen (Brauenberg)";"ZDFmobil";"23";"H";"47,00";
+"Baden-Württemberg";"Aalen (Brauenberg)";"ARD-One";"59";"H";"47,00";
+"Baden-Württemberg";"Aalen (Brauenberg)";"SWR-BW";"50";"H";"47,00";
+"Baden-Württemberg";"Bad Mergentheim";"ZDFmobil";"23";"H";"37,00";
+"Baden-Württemberg";"Bad Mergentheim";"SWR-BW";"50";"H";"40,00";
+"Baden-Württemberg";"Bad Mergentheim";"ARD-One";"26";"H";"37,00";
+"Baden-Württemberg";"Donaueschingen";"ZDFmobil";"22";"H";"47,00";
+"Baden-Württemberg";"Donaueschingen";"ARD-One";"54";"H";"47,00";
+"Baden-Württemberg";"Donaueschingen";"SWR-BW";"41";"H";"47,00";
+"Baden-Württemberg";"Geislingen - Oberböhringen";"ZDFmobil";"23";"H";"33,00";
+"Baden-Württemberg";"Geislingen - Oberböhringen";"ARD-One";"59";"H";"33,00";
+"Baden-Württemberg";"Geislingen - Oberböhringen";"SWR-BW";"50";"H";"33,00";
+"Baden-Württemberg";"Heilbronn (Weinsberg)";"ZDFmobil";"23";"H";"37,00";
+"Baden-Württemberg";"Heilbronn (Weinsberg)";"ARD-One";"26";"H";"37,00";
+"Baden-Württemberg";"Heilbronn (Weinsberg)";"SWR-BW";"50";"H";"37,00";
+"Baden-Württemberg";"Raichberg";"ZDFmobil";"22";"H";"47,00";
+"Baden-Württemberg";"Raichberg";"ARD-One";"43";"H";"47,00";
+"Baden-Württemberg";"Raichberg";"SWR-BW";"40";"H";"47,00";
+"Baden-Württemberg";"Ravensburg";"ZDFmobil";"22";"H";"47,00";
+"Baden-Württemberg";"Ravensburg";"ARD-One";"43";"H";"47,00";
+"Baden-Württemberg";"Ravensburg";"SWR-BW";"40";"H";"47,00";
+"Baden-Württemberg";"Ulm - Ermingen";"ZDFmobil";"22";"H";"47,00";
+"Baden-Württemberg";"Ulm - Ermingen";"ARD-One";"43";"H";"47,00";
+"Baden-Württemberg";"Ulm - Ermingen";"SWR-BW";"40";"H";"47,00";
+"Baden-Württemberg";"Waldenburg (Friedrichsberg)";"ZDFmobil";"23";"H";"47,00";
+"Baden-Württemberg";"Waldenburg (Friedrichsberg)";"ARD-One";"26";"H";"47,00";
+"Baden-Württemberg";"Waldenburg (Friedrichsberg)";"SWR-BW";"50";"H";"47,00";
+"Bayern";"Amberg (Rotbühl)";"ZDFmobil";"23";"H";"47,00";"ab"
+"Bayern";"Amberg (Rotbühl)";"BR-Süd";"28";"H";"47,00";"ab"
+"Bayern";"Amberg (Rotbühl)";"ARD-One";"37";"H";"47,00";"ab"
+"Bayern";"Bamberg (Kälberberg)";"ARD-One";"29";"H";"47,00";"ab"
+"Bayern";"Bamberg (Kälberberg)";"ZDFmobil";"34";"H";"47,00";"ab"
+"Bayern";"Bamberg (Kälberberg)";"BR-Nord";"40";"H";"47,00";"ab"
+"Bayern";"Brotjacklriegel";"ARD-One";"40";"V";"50,00";
+"Bayern";"Brotjacklriegel";"BR-Süd";"27";"V";"50,00";
+"Bayern";"Brotjacklriegel";"ZDFmobil";"33";"V";"47,00";
+"Bayern";"Garmisch-Partenkirchen (Kreuzeck)";"ZDFmobil";"28";"H";"37,00";
+"Bayern";"Garmisch-Partenkirchen (Kreuzeck)";"ARD-One";"47";"H";"37,00";
+"Bayern";"Garmisch-Partenkirchen (Kreuzeck)";"BR-Süd";"53";"H";"37,00";
+"Bayern";"Grünten";"ZDFmobil";"28";"H";"47,00";
+"Bayern";"Grünten";"ARD-One";"45";"H";"50,00";
+"Bayern";"Grünten";"BR-Süd";"46";"H";"50,00";
+"Bayern";"Hohe Linie";"ARD-One";"42";"V";"50,00";
+"Bayern";"Hohe Linie";"BR-Süd";"28";"V";"50,00";
+"Bayern";"Hohe Linie";"ZDFmobil";"53";"V";"47,00";
+"Bayern";"Hohenpeißenberg";"ZDFmobil";"28";"H";"47,00";
+"Bayern";"Hohenpeißenberg";"ARD-One";"47";"H";"50,00";
+"Bayern";"Hohenpeißenberg";"BR-Süd";"53";"H";"50,00";
+"Bayern";"Hoher Bogen";"ARD-One";"42";"V";"50,00";
+"Bayern";"Hoher Bogen";"BR-Süd";"28";"V";"50,00";
+"Bayern";"Hoher Bogen";"ZDFmobil";"33";"V";"47,00";
+"Bayern";"Landshut";"BR-Süd";"27";"H";"43,00";
+"Bayern";"Landshut";"ZDFmobil";"33";"H";"43,00";
+"Bayern";"Landshut";"ARD-One";"40";"H";"43,00";
+"Bayern";"Ochsenkopf";"ZDFmobil";"23";"H";"47,00";"ab"
+"Bayern";"Ochsenkopf";"ARD-One";"29";"H";"47,00";"ab"
+"Bayern";"Ochsenkopf";"BR-Nord";"40";"H";"50,00";"ab"
+"Bayern";"Passau (Kühberg)";"BR-Süd";"27";"H";"37,00";
+"Bayern";"Passau (Kühberg)";"ZDFmobil";"33";"H";"37,00";
+"Bayern";"Passau (Kühberg)";"ARD-One";"40";"H";"37,00";
+"Bayern";"Pfänder";"ARD-One";"45";"H";"40,00";
+"Bayern";"Pfänder";"BR-Süd";"46";"H";"40,00";
+"Bayern";"Pfarrkirchen";"BR-Süd";"27";"H";"47,00";
+"Bayern";"Pfarrkirchen";"ZDFmobil";"33";"H";"47,00";
+"Bayern";"Pfarrkirchen";"ARD-One";"40";"H";"47,00";
+"Berlin";"Berlin Alexanderplatz";"BerlinDVB-T1";"47";"H";"50,00";
+"Berlin";"Berlin Schäferberg";"BerlinDVB-T1";"47";"V";"47,00";
+"Brandenburg";"Cottbus (Calau)";"ARD-BB";"53";"H";"50,00";
+"Brandenburg";"Cottbus (Calau)";"RBB-BB";"57";"H";"50,00";
+"Brandenburg";"Cottbus (Calau)";"ZDFmobil";"36";"H";"50,00";
+"Hamburg";"Hamburg Heinrich-Hertz-Turm";"Hamburg 1";"37";"H";"47,00";
+"Hamburg";"Hamburg Höltigbaum";"Hamburg 1";"37";"H";"43,00";
+"Mecklenburg-Vorpommern";"Helpterberg";"ARD-MV";"22";"H";"43,00";
+"Mecklenburg-Vorpommern";"Helpterberg";"ZDFmobil";"23";"H";"43,00";
+"Mecklenburg-Vorpommern";"Waren/Müritz";"ARD-MV";"22";"H";"30,00";
+"Mecklenburg-Vorpommern";"Waren/Müritz";"ZDFmobil";"23";"H";"30,00";
+"Niedersachsen";"Dannenberg (Zernien)";"ARD-TS24";"43";"H";"40,00";
+"Niedersachsen";"Dannenberg (Zernien)";"NDR-NDS";"58";"H";"33,00";
+"Niedersachsen";"Uelzen-Sprakensehl (Behren-Bokel)";"ARD-TS24";"43";"H";"47,00";
+"Niedersachsen";"Uelzen-Sprakensehl (Behren-Bokel)";"ZDFmobil";"27";"H";"45,00";
+"Niedersachsen";"Uelzen-Sprakensehl (Behren-Bokel)";"NDR-NDS";"58";"H";"47,00";
+"Niedersachsen";"Visselhövede";"ARD-TS24";"43";"V";"47,00";
+"Niedersachsen";"Visselhövede";"ZDFmobil";"27";"V";"43,00";
+"Niedersachsen";"Visselhövede";"NDR-NDS";"58";"V";"49,00";
+"Nordrhein-Westfalen";"Hochsauerland";"WDR-Siegen";"27";"H";"47,00";
+"Nordrhein-Westfalen";"Hochsauerland";"ARD-One";"60";"H";"47,00";
+"Nordrhein-Westfalen";"Hochsauerland";"ZDFmobil";"30";"H";"47,00";
+"Nordrhein-Westfalen";"Nordhelle";"WDR-Siegen";"27";"V";"47,00";
+"Nordrhein-Westfalen";"Nordhelle";"ARD-One";"60";"V";"50,00";
+"Nordrhein-Westfalen";"Nordhelle";"ZDFmobil";"30";"V";"47,00";
+"Nordrhein-Westfalen";"Siegen (Giersberg)";"WDR-Siegen";"27";"V";"43,00";
+"Nordrhein-Westfalen";"Siegen (Giersberg)";"ARD-One";"60";"V";"46,00";
+"Nordrhein-Westfalen";"Siegen (Giersberg)";"ZDFmobil";"30";"V";"43,00";
+"Rheinland-Pfalz";"Donnersberg";"ARD-One";"57";"H";"47,00";
+"Rheinland-Pfalz";"Donnersberg";"ZDFmobil";"30";"H";"47,00";
+"Rheinland-Pfalz";"Donnersberg";"SWR-RP";"44";"H";"47,00";
+"Rheinland-Pfalz";"Eifel (Scharteberg)";"ARD-One";"46";"H";"47,00";
+"Rheinland-Pfalz";"Eifel (Scharteberg)";"ZDFmobil";"30";"H";"47,00";
+"Rheinland-Pfalz";"Eifel (Scharteberg)";"SWR-RP";"48";"H";"47,00";
+"Rheinland-Pfalz";"Haardtkopf";"ARD-One";"46";"H";"47,00";
+"Rheinland-Pfalz";"Haardtkopf";"ZDFmobil";"30";"H";"47,00";
+"Rheinland-Pfalz";"Haardtkopf";"SWR-RP";"48";"H";"47,00";
+"Rheinland-Pfalz";"Kaiserslautern (Dansenberg)";"ARD-One";"57";"H";"43,00";
+"Rheinland-Pfalz";"Kaiserslautern (Dansenberg)";"ZDFmobil";"30";"H";"43,00";
+"Rheinland-Pfalz";"Kaiserslautern (Dansenberg)";"SWR-RP";"44";"H";"43,00";
+"Rheinland-Pfalz";"Kettrichhof";"ARD-One";"57";"H";"47,00";
+"Rheinland-Pfalz";"Kettrichhof";"ZDFmobil";"30";"H";"47,00";
+"Rheinland-Pfalz";"Kettrichhof";"SWR-RP";"44";"H";"47,00";
+"Rheinland-Pfalz";"Saarburg (Ockfen - Geisberg)";"ARD-One";"46";"H";"47,00";
+"Rheinland-Pfalz";"Saarburg (Ockfen - Geisberg)";"ZDFmobil";"30";"H";"47,00";
+"Rheinland-Pfalz";"Saarburg (Ockfen - Geisberg)";"SWR-RP";"48";"H";"47,00";
+"Rheinland-Pfalz";"Trier (Petrisberg)";"ARD-One";"46";"H";"37,00";
+"Rheinland-Pfalz";"Trier (Petrisberg)";"ZDFmobil";"30";"H";"37,00";
+"Rheinland-Pfalz";"Trier (Petrisberg)";"SWR-RP";"48";"H";"37,00";
+"Rheinland-Pfalz";"Weinbiet / Neustadt a. d. W.";"SWR-RP";"44";"H";"43,00";
+"Sachsen";"Auerbach (Carlsturm)";"WESTSACHSEN";"51";"V";"30,50";
+"Sachsen";"Chemnitz (Geyer)";"ARD-MDR";"25";"V";"47,00";"ab"
+"Sachsen";"Chemnitz (Geyer)";"ZDFmobil";"22";"V";"47,00";"ab"
+"Sachsen";"Chemnitz (Geyer)";"MDR-Sachsen";"32";"V";"47,00";"ab"
+"Sachsen";"Chemnitz (Reichenhain)";"ARD-MDR";"25";"V";"43,00";"ab"
+"Sachsen";"Chemnitz (Reichenhain)";"ZDFmobil";"22";"V";"37,00";"ab"
+"Sachsen";"Chemnitz (Reichenhain)";"MDR-Sachsen";"32";"V";"43,00";"ab"
+"Sachsen";"Chemnitz (Stelzendorf)";"CHEMNITZ";"30";"V";"36,00";
+"Sachsen";"Dresden (Wiener Platz)";"DRESDEN";"37";"V";"36,00";
+"Sachsen";"Görlitz (Liebighöhe)";"Lausitzwelle";"40";"V";"35,00";
+"Sachsen";"Leipzig (Grünau)";"LEIPZIG";"31";"V";"34,00";
+"Sachsen";"Leipzig (Lößnig)";"LEIPZIG";"31";"V";"30,50";
+"Sachsen";"Leipzig (Markkleeberg)";"LEIPZIG";"31";"V";"29,00";
+"Sachsen";"Leipzig (Messe)";"LEIPZIG";"31";"V";"34,00";
+"Sachsen";"Leipzig (Mitte)";"LEIPZIG";"31";"V";"34,00";
+"Sachsen";"Plauen (Oberer Bahnhof)";"WESTSACHSEN";"51";"V";"30,50";
+"Sachsen";"Schöneck (Auerbach)";"ARD-MDR";"25";"V";"47,00";"ab"
+"Sachsen";"Schöneck (Auerbach)";"ZDFmobil";"22";"V";"47,00";"ab"
+"Sachsen";"Schöneck (Auerbach)";"MDR-Sachsen";"32";"V";"47,00";"ab"
+"Sachsen";"Zwickau (Eckersbach)";"WESTSACHSEN";"34";"V";"32,00";
+"Sachsen-Anhalt";"Bitterfeld";"RBW-RAN1";"30";"V";"37,00";
+"Sachsen-Anhalt";"Halle (Magdeburger Str.)";"HALLE";"40";"V";"37,00";
+"Schleswig-Holstein";"Bredstedt";"ARD-TS24";"26";"H";"44,00";
+"Schleswig-Holstein";"Bredstedt";"ZDFmobil";"31";"H";"37,00";
+"Schleswig-Holstein";"Bredstedt";"NDR-SH";"24";"H";"44,00";
+"Schleswig-Holstein";"Brunnsbüttel";"ARD-TS24";"26";"V";"26,00";
+"Schleswig-Holstein";"Brunnsbüttel";"NDR-SH";"24";"V";"30,00";
+"Schleswig-Holstein";"Heide (Welmbüttel)";"ARD-TS24";"26";"H";"45,00";
+"Schleswig-Holstein";"Heide (Welmbüttel)";"NDR-SH";"24";"H";"45,00";
+"Schleswig-Holstein";"Heide (Welmbüttel)";"ZDFmobil";"31";"H";"43,00";
+"Schleswig-Holstein";"Helgoland";"ARD-TS24";"47";"H";"24,00";
+"Schleswig-Holstein";"Helgoland";"NDR-SH";"39";"H";"24,00";
+"Schleswig-Holstein";"Helgoland";"ZDFmobil";"23";"H";"24,00";
+"Schleswig-Holstein";"Westerland (Sylt)";"ARD-TS24";"26";"H";"39,00";
+"Schleswig-Holstein";"Westerland (Sylt)";"NDR-SH";"24";"H";"39,00";
+"Schleswig-Holstein";"Westerland (Sylt)";"ZDFmobil";"31";"H";"37,00";
+"Thüringen";"Gera (Roschütz)";"ARD-MDR";"25";"V";"47,00";"ab"
+"Thüringen";"Gera (Roschütz)";"ZDFmobil";"22";"V";"47,00";"ab"
+"Thüringen";"Gera (Roschütz)";"MDR-Thüringen";"39";"V";"47,00";"ab"
+"Thüringen";"Großer Inselberg";"ARD-MDR";"53";"V";"47,00";
+"Thüringen";"Großer Inselberg";"ZDFmobil";"50";"V";"47,00";
+"Thüringen";"Großer Inselberg";"MDR-Thüringen";"48";"V";"47,00";
+"Thüringen";"Ilmenau TU";"TU-ILM";"26";"H";"15,00";
+
